@@ -200,6 +200,12 @@ footer   {display: block;padding: 13px 0 134px 0;}
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Circular';
+  src: url('../fonts/Circular/Circular.ttf')  format('truetype'),
+  font-weight: normal;
+  font-style: normal;
+}
 
 
 @font-face {
@@ -214,13 +220,12 @@ footer   {display: block;padding: 13px 0 134px 0;}
 
 @font-face {
   font-family: CircularAirPro;
-  src: url(CircularAirPro.ttf);
+  src: url('../fonts/CircularAirPro-Light/CircularAirPro-Light.eot') format('embedded-opentype'),
+      url('../fonts/CircularAirPro-Light/CircularAirPro-Light.woff') format('woff'),
+      url('../fonts/CircularAirPro-Light/CircularAirPro-Light.ttf')  format('truetype'),
+      url('../fonts/CircularAirPro-Light/CircularAirPro-Light.svg#CircularAirPro-Light') format('svg');
 }
 
-@font-face {
-  font-family: Circular;
-  src: url(Circular.ttf);
-}
 
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 
