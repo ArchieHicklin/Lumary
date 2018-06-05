@@ -79,7 +79,7 @@ header{
 .content2{position: relative;background: #fff;border-radius: 10px;box-shadow: 0 5px 17px 0 rgba(210, 210, 210, 0.27);}
 .cnt_lt  {display: inline-block;vertical-align: top;width: 50%;}
 .cnt_lt figure {display: block;}
-.cnt_lt figure img {display: block;width:100%;height: auto;border-radius: 10px 0 0 10px;}
+.cnt_lt figure video {display: block;width:100%;height: auto;border-radius: 10px 0 0 10px;}
 .cnt_rt{display: inline-block;width: 50%;padding: 0;position: relative;}
 .cnt_rt h4  {}
 .cnt_info  {position: absolute;top: 50%;left: 0;right: 0;width: 77%;margin: 0 auto;transform: translateY(-50%);-webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);-moz-transform: translateY(-50%);}
