@@ -87,6 +87,7 @@ header{
 
 .cnt_rt p  {font-size: 26px;line-height: 28px;color: #131313;padding: 24px 0 31px 0;}
 .cnt_rt  .btn  {background: url(../images/amazon.svg) no-repeat center left;color: #484848;border-radius: 2px;box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.05);box-shadow: 0 2px 2px 0 var(--black-5);background-color: #ffffff;border: solid 0.5px #f1f1ef;background-position: 21px 18px;font-size: 17px;padding: 0 29px 0 56px;/* Rectangle 17: *//* background: #FFFFFF; */border: 1px solid #F1F1EF;box-shadow: 0 4px 4px 0 rgba(0,0,0,0.05);border-radius: 4px;font-family:  CircularAirPro;}
+.cnt_rt  .btn3  {background: url(../images/apple.svg) no-repeat center left;color: #484848;border-radius: 2px;box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.05);box-shadow: 0 2px 2px 0 var(--black-5);background-color: #ffffff;border: solid 0.5px #f1f1ef;background-position: 21px 18px;font-size: 17px;padding: 0 29px 0 56px;/* Rectangle 17: *//* background: #FFFFFF; */border: 1px solid #F1F1EF;box-shadow: 0 4px 4px 0 rgba(0,0,0,0.05);border-radius: 4px;font-family:  CircularAirPro;}
 .product  {max-width:1316px;margin:0 auto;display: block;position: relative;padding: 199px 0; background: #fff;}
 .product_info {width: 50%;padding: 237px 0 0 0;position: absolute;left: 120px;top: 46%;transform: translateY(-50%);-webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);-moz-transform: translateY(-50%);}
 .product_info p  {display: block;padding: 13px 68px 23px 8px;width: 55%;line-height: 30px;color: #b2b2b4;}
